@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="texte">Jeux des dés</string>
+    <string name="textView"></string>
+    <string name="textView1"></string>
+    <string name="dice1">Dice 1:</string>
+    <string name="dice2">Dice 2:</string>
+    <string name="bt_name">Roll</string>
+</resources>
