@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice Roller 2</string>
+    <string name="texte">JEU DE Dé</string>
+    <string name="textview"></string>
+    <string name="bt_name">Roll</string>
+    <string name="todo">TODO</string>
+</resources>
