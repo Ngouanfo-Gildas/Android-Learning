@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2cc71796-ad01-444a-91eb-91b558a54807" name="Default Changelist" comment="Add projects">
+      <change afterPath="$PROJECT_DIR$/../TipTime22/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/src/androidTest/java/com/example/tiptime2/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/src/main/ic_launcher-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/src/main/java/com/example/tiptime2/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/app/src/test/java/com/example/tiptime2/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TipTime22/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/ic_launcher-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tiptime/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tiptime/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1nBR6FOVrFTRX2awpoZ3qm8nvOl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel3aXLAPI28_6.0" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-01-17T11:22:53.218Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SelectDeploymentTargetsDialog.selectedDevices" value="Pixel3aXLAPI28_6.0" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Tip_time.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="drawable.* and 1 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tip_time.app" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="drawable.*" />
+        <pattern testClass="drawable-anydpi-v26.*" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cc71796-ad01-444a-91eb-91b558a54807" name="Default Changelist" comment="" />
+      <created>1610861319772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610861319772</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tip Time" />
+    <MESSAGE value="Add projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add projects" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613890999419">
+      <screen x="0" y="34" width="1920" height="969" />
+    </state>
+    <state x="418" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.34.1920.969@0.34.1920.969" timestamp="1613890999419" />
+    <state x="649" y="329" width="612" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613890528404">
+      <screen x="0" y="34" width="1920" height="986" />
+    </state>
+    <state x="649" y="329" width="612" height="403" key="#com.intellij.fileTypes.FileTypeChooser/0.34.1920.986@0.34.1920.986" timestamp="1613890528404" />
+    <state x="627" y="217" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614295486720">
+      <screen x="0" y="34" width="1920" height="986" />
+    </state>
+    <state x="627" y="217" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.34.1920.986@0.34.1920.986" timestamp="1614295486720" />
+    <state x="540" y="278" width="830" height="505" key="AndroidCreateResourceDirectoryDialog" timestamp="1614297070199">
+      <screen x="0" y="34" width="1920" height="986" />
+    </state>
+    <state x="540" y="278" width="830" height="505" key="AndroidCreateResourceDirectoryDialog/0.34.1920.986@0.34.1920.986" timestamp="1614297070199" />
+    <state x="806" y="345" width="357" height="423" key="AndroidCreateXmlResourceDialog" timestamp="1610870368396">
+      <screen x="60" y="27" width="1860" height="1053" />
+    </state>
+    <state x="806" y="345" width="357" height="423" key="AndroidCreateXmlResourceDialog/60.27.1860.1053@60.27.1860.1053" timestamp="1610870368396" />
+    <state x="684" y="231" width="530" height="605" key="FileChooserDialogImpl" timestamp="1614294546859">
+      <screen x="0" y="34" width="1920" height="986" />
+    </state>
+    <state x="684" y="231" width="530" height="605" key="FileChooserDialogImpl/0.34.1920.986@0.34.1920.986" timestamp="1614294546859" />
+    <state width="1863" height="238" key="GridCell.Tab.0.bottom" timestamp="1614328387501">
+      <screen x="0" y="34" width="1920" height="986" />
+    </state>
+    <state width="1874" height="447" key="GridCell.Tab.0.bottom/0.34.1920.969@0.34.1920.969" timestamp="1613893504711" />
+    <state width="1863" height="238" key="GridCell.Tab.0.bottom/0.34.1920.986@0.34.1920.986" timestamp="1614328387501" />
+    <state width="1814" height="275" key="GridCell.Tab.0.bottom/60.27.1860.1053@60.27.1860.1053" timestamp="1610905362947" />
+    <state width="1863" height="238" key="GridCell.Tab.0.center" timestamp="1614328387501">
+      <screen x="0" y="34" width="1920" height="986" />
+    </state>
+    <state width="1874" height="447" key="GridCell.Tab.0.center/0.34.1920.969@0.34.1920.969" timestamp="1613893504710" />
+    <state width="1863" height="238" key="GridCell.Tab.0.center/0.34.1920.986@0.34.1920.986" timestamp="1614328387501" />
+    <state width="1814" height="275" key="GridCell.Tab.0.center/60.27.1860.1053@60.27.1860.1053" timestamp="1610905362946" />
+    <state width="1863" height="238" key="GridCell.Tab.0.left" timestamp="1614328387501">
+      <screen x="0" y="34" width="1920" height="986" />
+    </state>
+    <state width="1874" height="447" key="GridCell.Tab.0.left/0.34.1920.969@0.34.1920.969" timestamp="1613893504709" />
+    <state width="1863" height="238" key="GridCell.Tab.0.left/0.34.1920.986@0.34.1920.986" timestamp="1614328387501" />
+    <state width="1814" height="275" key="GridCell.Tab.0.left/60.27.1860.1053@60.27.1860.1053" timestamp="1610905362946" />
+    <state width="1863" height="238" key="GridCell.Tab.0.right" timestamp="1614328387501">
+      <screen x="0" y="34" width="1920" height="986" />
+    </state>
+    <state width="1874" height="447" key="GridCell.Tab.0.right/0.34.1920.969@0.34.1920.969" timestamp="1613893504711" />
+    <state width="1863" height="238" key="GridCell.Tab.0.right/0.34.1920.986@0.34.1920.986" timestamp="1614328387501" />
+    <state width="1814" height="275" key="GridCell.Tab.0.right/60.27.1860.1053@60.27.1860.1053" timestamp="1610905362946" />
+    <state width="1874" height="247" key="GridCell.Tab.1.bottom" timestamp="1613891653633">
+      <screen x="0" y="34" width="1920" height="986" />
+    </state>
+    <state width="1874" height="247" key="GridCell.Tab.1.bottom/0.34.1920.969@0.34.1920.969" timestamp="1613891526993" />
+    <state width="1874" height="247" key="GridCell.Tab.1.bottom/0.34.1920.986@0.34.1920.986" timestamp="1613891653633" />
+    <state width="1874" height="247" key="GridCell.Tab.1.center" timestamp="1613891653633">
+      <screen x="0" y="34" width="1920" height="986" />
+    </state>
+    <state width="1874" height="247" key="GridCell.Tab.1.center/0.34.1920.969@0.34.1920.969" timestamp="1613891526993" />
+    <state width="1874" height="247" key="GridCell.Tab.1.center/0.34.1920.986@0.34.1920.986" timestamp="1613891653633" />
+    <state width="1874" height="247" key="GridCell.Tab.1.left" timestamp="1613891653632">
+      <screen x="0" y="34" width="1920" height="986" />
+    </state>
+    <state width="1874" height="247" key="GridCell.Tab.1.left/0.34.1920.969@0.34.1920.969" timestamp="1613891526993" />
+    <state width="1874" height="247" key="GridCell.Tab.1.left/0.34.1920.986@0.34.1920.986" timestamp="1613891653632" />
+    <state width="1874" height="247" key="GridCell.Tab.1.right" timestamp="1613891653633">
+      <screen x="0" y="34" width="1920" height="986" />
+    </state>
+    <state width="1874" height="247" key="GridCell.Tab.1.right/0.34.1920.969@0.34.1920.969" timestamp="1613891526993" />
+    <state width="1874" height="247" key="GridCell.Tab.1.right/0.34.1920.986@0.34.1920.986" timestamp="1613891653633" />
+    <state x="655" y="345" width="580" height="385" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog" timestamp="1613889279620">
+      <screen x="0" y="27" width="1920" height="993" />
+    </state>
+    <state x="655" y="345" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog/0.27.1920.993@0.27.1920.993" timestamp="1613889279620" />
+    <state x="695" y="364" width="580" height="385" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog/60.27.1860.1053@60.27.1860.1053" timestamp="1610880111787" />
+    <state x="623" y="249" key="search.everywhere.popup" timestamp="1613898373710">
+      <screen x="0" y="34" width="1920" height="986" />
+    </state>
+    <state x="623" y="249" key="search.everywhere.popup/0.34.1920.986@0.34.1920.986" timestamp="1613898373710" />
+  </component>
+</project>
